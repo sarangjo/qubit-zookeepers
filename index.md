@@ -1,12 +1,13 @@
 ## Companies
 
-| Company    | Qubit Type                 | Notes | References |
-| ---------- | -------------------------- | ----- | ---------- |
-| IBM        | Transmon (superconducting) |       |            |
-| Microsoft  | Topological (Majorana)     |       |            |
-| Quantinuum | Trapped ion                |       |            |
-| IonQ       | Trapped ion                |       |            |
-| Infleqtion | Neutral atom               |       |            |
+| Company    | Qubit Type             | Notes | References |
+| ---------- | ---------------------- | ----- | ---------- |
+| IBM        | Superconducting        |       |            |
+| Microsoft  | Topological (Majorana) |       |            |
+| Quantinuum | Trapped ion            |       |            |
+| IonQ       | Trapped ion            |       |            |
+| Infleqtion | Neutral atom           |       |            |
+| Google     | Superconducting        |       |            |
 
 ## Research Labs
 
