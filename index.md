@@ -8,6 +8,8 @@
 | IonQ       | Trapped ion            |       |            |
 | Infleqtion | Neutral atom           |       |            |
 | Google     | Superconducting        |       |            |
+| QuEra      | Neutral atom           |       |            |
+| Intel      | Spin                   |       |            |
 
 ## Research Labs
 
